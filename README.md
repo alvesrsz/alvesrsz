@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077ff&height=120&section=header"/> <!--HEADER-->
 
+![snake gif](https://github.com/your-user-name/alvesrsz/blob/output/github-contribution-grid-snake.gif)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0077ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Wallace.;Tenho+19+anos+e+sou+de+Brasília.;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas.;Focado+em+me+tornar+um+desenvolvedor+back-end.;Bora+construir+algo+incrível+juntos%3F+%F0%9F%98%8E)](https://git.io/typing-svg)
 
 <!--
@@ -30,5 +32,3 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077ff&height=120&section=footer"/> <!--FOOTER-->
-
-![snake gif](https://github.com/your-user-name/alvesrsz/blob/output/github-contribution-grid-snake.gif)
