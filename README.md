@@ -22,16 +22,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<div align="center">  <!--REDESSOCIAIS-->
-<a href="https://instagram.com/alveszrxt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:alveszrw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/wallace-alvess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
-
 <div align="center"> <!-- Contador de Visitantes -->
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alvesrsz}/count.svg" /></p> 
   <br>
+</div>
+
+<div align="center">  <!--REDESSOCIAIS-->
+<a href="https://instagram.com/alveszrxt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:alveszrw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/wallace-alvess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=120&section=footer"/> <!--FOOTER-->
