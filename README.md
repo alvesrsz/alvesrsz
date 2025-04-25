@@ -8,7 +8,7 @@
 
 <div align="center">  <!--GITStatus-->
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alvesrsz&show_icons=true&count_private=true&hide_border=true&title_color=ff8c00&icon_color=ff8c00&text_color=0077ff&bg_color=0d1117" alt="Wallace ataide github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesrsz&layout=compact&hide_border=true&title_color=ff8c00&text_color=0077ff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvesrsz&layout=compact&hide_border=true&title_color=ff8c00&text_color=0077ff&bg_color=0d1117" />
 </div>
 
 ### Habilidades principais:
