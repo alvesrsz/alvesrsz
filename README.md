@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=120&section=header"/> <!--HEADER-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff8c00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Wallace.;Tenho+19+anos+e+sou+de+Brasília.;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas.;Focado+em+me+tornar+um+desenvolvedor+back-end.;Bora+construir+algo+incrível+juntos%3F+%F0%9F%98%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff8c00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Wallace.;Tenho+20+anos+e+sou+de+Brasília.;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas.;Focado+em+me+tornar+um+desenvolvedor+back-end.;Bora+construir+algo+incrível+juntos%3F+%F0%9F%98%8E)](https://git.io/typing-svg)
 
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alvesrsz&bg_color=0d1117&color=0077ff&line=0077ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
